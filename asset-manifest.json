@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/message-app/static/css/main.fd8cde76.css",
-    "main.js": "/message-app/static/js/main.9ea91dc5.js",
+    "main.js": "/message-app/static/js/main.222138de.js",
     "static/js/453.426595cb.chunk.js": "/message-app/static/js/453.426595cb.chunk.js",
     "static/media/women_user_logo.svg": "/message-app/static/media/women_user_logo.d2b78655bc533e54a2cf5abf5c8a55aa.svg",
     "static/media/man_user_logo.svg": "/message-app/static/media/man_user_logo.6d45c3fd3e5cae9c9d17d4b8177ff37b.svg",
@@ -9,11 +9,11 @@
     "static/media/envelope_icon.svg": "/message-app/static/media/envelope_icon.1aa6c72785ac7c4d9e5f0b44f040b038.svg",
     "index.html": "/message-app/index.html",
     "main.fd8cde76.css.map": "/message-app/static/css/main.fd8cde76.css.map",
-    "main.9ea91dc5.js.map": "/message-app/static/js/main.9ea91dc5.js.map",
+    "main.222138de.js.map": "/message-app/static/js/main.222138de.js.map",
     "453.426595cb.chunk.js.map": "/message-app/static/js/453.426595cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd8cde76.css",
-    "static/js/main.9ea91dc5.js"
+    "static/js/main.222138de.js"
   ]
 }
