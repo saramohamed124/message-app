@@ -19,7 +19,7 @@ function SidebarDash() {
       <ul className="sidebar-content">
        
       <Link
-          to={"/message"}
+          to={"/message-app/message"}
           className="d-flex msg-side link active"
           onClick={(e) => {
             handleClick(e);

@@ -7,8 +7,8 @@ function App() {
   return (
     <div className="dash d-flex">
        <Routes>
-        <Route element ={<SidebarDash/>} path="/"></Route>
-        <Route element={<Message/>} path="/message"></Route>
+        <Route element ={<SidebarDash/>} path="/message-app/"></Route>
+        <Route element={<Message/>} path="/message-app/"></Route>
       </Routes></div>
      
     
